@@ -50,4 +50,4 @@ An **interval** is a subset of the Real Number Line. It can be **open**, **close
 
 In a graph, endpoints (also boundary points) of an interval are marked **●** if the point is included in the interval, and **○** if the point is excluded from the inteval.
 
-A **Finite Interval** `(a, b)` has a fixed length `(b - a)` while an **Infinite Interval** is just that. The whole Real Line, `ℝ`
+A **Finite Interval** `(a, b)` has a fixed length `(b - a)` while an **Infinite Interval** is just that. The whole Real Line, `ℝ`, is an infinite interval: `(-∞, ∞)`. Note that the interval is open, not closed.
