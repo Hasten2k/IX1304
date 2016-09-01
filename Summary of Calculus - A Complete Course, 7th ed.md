@@ -42,11 +42,3 @@ The _Completeness Property_ states that for any set **A** with real numbers in i
 The **Rational Numbers** does not possess the _completeness property_. There is for example no rational number whose square is equal to 2.
 
 ### Intervals
-
-
-
-Infocenter
-08-790 9217
-
-Centrala Studievägledningen
-08-790 6730
