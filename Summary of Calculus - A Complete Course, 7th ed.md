@@ -40,7 +40,7 @@ The **Completeness Property** states that for any set **A** with real numbers in
 **Real numbers** that are not a part of the **Rational** subset are called **Irrational Numbers**.
 
 
-The **Rational Numbers** does not possess the [**completeness property**](the-completeness-property). There is for example no rational number whose square is equal to 2.
+The **Rational Numbers** does not possess the [**completeness property**](#the-completeness-property). There is for example no rational number whose square is equal to 2.
 
 ### Intervals
 An **interval** is a subset of the Real Number Line. It can be **open**, **closed** or **half-open**.
