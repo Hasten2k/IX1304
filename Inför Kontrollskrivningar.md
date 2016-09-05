@@ -5,13 +5,17 @@
 ### Läshänvsningar
 
 - Kapitel P
+- Appendix 1
+
 - Kapitel 1
 
   - Gränsvärden
   - Kontinuitet
 
 - Kapitel 2
-- Appendix 1
+
+  - Derivata
+  - Deriveringsregler
 
 ### Begrepp
 
@@ -38,6 +42,7 @@
     - 23
 
   - P6
+
   - P7
 
 - Appendix 1
