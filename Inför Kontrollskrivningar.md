@@ -19,7 +19,7 @@
 
 ## KS 1
 
-## Läshänvsningar
+### Läshänvsningar
 
 - Kapitel P
 - Appendix 1
@@ -34,11 +34,11 @@
   - Derivata
   - Deriveringsregler
 
-## Begrepp
+### Begrepp
 
-## Övningar
+### Övningar
 
-### Kapitel P
+#### Kapitel P
 
 - P1
 
@@ -62,7 +62,7 @@
 
 - P7
 
-### Appendix 1
+#### Appendix 1
 
 - 3
 - 13
@@ -72,7 +72,7 @@
 - 53
 - De Moivres Theorem
 
-### Kapitel 1
+#### Kapitel 1
 
 - 1.1
 
@@ -101,7 +101,7 @@
   - 1
   - 17
 
-### Kapitel 2
+#### Kapitel 2
 
 - 2.1
 
