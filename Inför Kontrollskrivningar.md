@@ -4,14 +4,14 @@
 
 1. [Inför Kontrollskrivningar](#inför-kontrollskrivningar)
 	1. [KS 1](#ks-1)
-	2. [Läshänvsningar](#läshänvsningar)
-	3. [Begrepp](#begrepp)
-	4. [Övningar](#övningar)
-		1. [Kapitel P](#kapitel-p)
-		2. [Appendix 1](#appendix-1)
-		3. [Kapitel 1](#kapitel-1)
-		4. [Kapitel 2](#kapitel-2)
-	5. [KS 2](#ks-2)
+		1. [Läshänvsningar](#läshänvsningar)
+		2. [Begrepp](#begrepp)
+		3. [Övningar](#övningar)
+			1. [Kapitel P](#kapitel-p)
+			2. [Appendix 1](#appendix-1)
+			3. [Kapitel 1](#kapitel-1)
+			4. [Kapitel 2](#kapitel-2)
+	2. [KS 2](#ks-2)
 		1. [Läshänvsningar](#läshänvsningar)
 		2. [Begrepp](#begrepp)
 
@@ -162,5 +162,15 @@
 ## KS 2
 
 ### Läshänvsningar
+
+* Kapitel 3
+  * Exponentialfunktioner
+  * Logaritmer
+
+* Kapitel 4
+  * Tillämpningar av Derivatan
+
+* Kapitel 5
+  * Integraler
 
 ### Begrepp
