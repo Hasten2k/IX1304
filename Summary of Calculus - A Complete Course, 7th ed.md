@@ -79,3 +79,11 @@ An **Absolute Value** of a number, `x`, also known as a **magnitude**, is denote
 3. `|a ± b| ≤ |a| + |b|`
 
   - The absolute value of a sum or difference between two values, is less than or equal to the sum of their absolute values. This is called the **triangle inequality**. It is derived from the fact that no side in a triangle can be longer than the sum of the two other sides.
+
+## Chapter 3
+
+### 3.1 Inverse Functions
+
+An inverse function is a function that satisfies the following formal definition:
+
+    f(x) = b <=> f^-1(b) = x
