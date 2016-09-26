@@ -85,5 +85,8 @@ An **Absolute Value** of a number, `x`, also known as a **magnitude**, is denote
 ### 3.1 Inverse Functions
 
 An inverse function is a function that satisfies the following formal definition:
+`f(x) = b <=> f^-1(b) = x`
 
-    f(x) = b <=> f^-1(b) = x
+In order for a function to be invertible, it has to satisfy the condition of being one-to-one. That is, the function has to provide one unique value for `y` for each `x`.
+
+Another way of expressing this is that the function `f` must map one value in the `domain` to one other value in the `range` of the function.
